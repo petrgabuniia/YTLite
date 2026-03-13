@@ -335,9 +335,9 @@
 
 /* Interface options */
 "Interface" = "Интерфейс";
-"OledTheme" = "OLED режим";
+"OledTheme" = "Oled режим";
 "OledThemeDesc" = "Заменяет темные цвета черным";
-"OledKeyboard" = "OLED клавиатура";
+"OledKeyboard" = "Oled клавиатура";
 "OledKeyboardDesc" = "Применяет черную тему для темной клавиатуры";
 "NoSearchHistory" = "Скрыть историю поиска";
 "NoSearchHistoryDesc" = "Визуально скрывает историю поиска и подсказок. Данная опция не отменяет трекинг вашей истории поиска.";
